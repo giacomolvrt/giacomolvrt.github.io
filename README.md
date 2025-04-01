@@ -1,9 +1,4 @@
 # giacomolvrt.github.io
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Simple Web Page</title>
-</head>
 <body>
 
 <p>This is a simple paragraph of text.</p>
@@ -13,4 +8,3 @@
   </ul>
   
 </body>
-</html>
